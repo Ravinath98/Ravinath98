@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ravinath98
-- 👀 I’m interested in programming c++ and python mostly
+- 👀 I’m very good in programming languages like c++,python and sql
 - 🌱 I’m currently learning computer engineering in faculty of engineering university of srijayawardanapura
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on AI/ML related things
 - 📫 How to reach me (email: ravinathwanni@gmail.com / phone: +94769734553)
 
 <!---
