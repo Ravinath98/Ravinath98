@@ -24,7 +24,7 @@
 <a href="https://stackoverflow.com/users/13369802" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13369802" height="30" width="40" /></a>
 <a href="https://kaggle.com/ravinathwanni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ravinathwanni" height="30" width="40" /></a>
 <a href="https://medium.com/@ravinathwanni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ravinathwanni" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ravinath wanni arachchi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ravinath wanni arachchi" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCp-aJejNpRo3DBAt0eR3NsA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucp-ajejnpro3dbat0er3nsa" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ravinathwanni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ravinathwanni" height="30" width="40" /></a>
 </p>
 
