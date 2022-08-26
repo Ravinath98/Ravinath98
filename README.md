@@ -21,10 +21,10 @@
 <p align="left">
 <a href="https://twitter.com/ravinathwanni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ravinathwanni" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ravinath-wanni-arachchi-69a4981a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravinath-wanni-arachchi-69a4981a4" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/ravinath00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ravinath00" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/13369802" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13369802" height="30" width="40" /></a>
 <a href="https://kaggle.com/ravinathwanni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ravinathwanni" height="30" width="40" /></a>
 <a href="https://medium.com/@ravinathwanni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ravinathwanni" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucp-ajejnpro3dbat0er3nsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucp-ajejnpro3dbat0er3nsa" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ravinath wanni arachchi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ravinath wanni arachchi" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ravinathwanni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ravinathwanni" height="30" width="40" /></a>
 </p>
 
